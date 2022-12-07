@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\1\Examlpe004\bin\Debug\net6.0\Examlpe004.exe
+C:\Users\PC\Desktop\1\Examlpe004\bin\Debug\net6.0\Examlpe004.deps.json
+C:\Users\PC\Desktop\1\Examlpe004\bin\Debug\net6.0\Examlpe004.runtimeconfig.json
+C:\Users\PC\Desktop\1\Examlpe004\bin\Debug\net6.0\Examlpe004.dll
+C:\Users\PC\Desktop\1\Examlpe004\bin\Debug\net6.0\Examlpe004.pdb
+C:\Users\PC\Desktop\1\Examlpe004\obj\Debug\net6.0\Examlpe004.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\1\Examlpe004\obj\Debug\net6.0\Examlpe004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\1\Examlpe004\obj\Debug\net6.0\Examlpe004.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\1\Examlpe004\obj\Debug\net6.0\Examlpe004.AssemblyInfo.cs
+C:\Users\PC\Desktop\1\Examlpe004\obj\Debug\net6.0\Examlpe004.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\1\Examlpe004\obj\Debug\net6.0\Examlpe004.dll
+C:\Users\PC\Desktop\1\Examlpe004\obj\Debug\net6.0\refint\Examlpe004.dll
+C:\Users\PC\Desktop\1\Examlpe004\obj\Debug\net6.0\Examlpe004.pdb
+C:\Users\PC\Desktop\1\Examlpe004\obj\Debug\net6.0\Examlpe004.genruntimeconfig.cache
+C:\Users\PC\Desktop\1\Examlpe004\obj\Debug\net6.0\ref\Examlpe004.dll
